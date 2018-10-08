@@ -14,6 +14,7 @@ public class calculatorTest {
 
     @Test
     public void canAdd(){
+
         assertEquals(4, calculator.add(2,2));
     }
     @Test
